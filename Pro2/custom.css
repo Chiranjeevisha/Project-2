@@ -1,0 +1,306 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap");
+p,
+span {
+  font-family: "Open Sans", sans-serif;
+}
+@media only screen and (max-width: 500px) {
+  .showcase {
+    font-size: 7vw !important;
+  }
+}
+.showcase {
+  font-size: 4vw;
+}
+@media only screen and (max-width: 500px) {
+  .text-responsive {
+    font-size: 4vw !important;
+  }
+  .btn-pad {
+    display: block !important;
+
+    border-width: 2px !important;
+    margin: 1px;
+  }
+}
+@media only screen and (max-width: 500px) {
+  .button-last-mob {
+    display: flex;
+    justify-content: center;
+    text-align: end;
+  }
+}
+.text-color {
+  color: rgb(177, 177, 177);
+}
+
+.text-responsive {
+  font-size: 1vw;
+}
+.font-px {
+  font-size: 12px;
+}
+.btn-pad {
+  padding: 7px 20px;
+  border-width: 3px;
+}
+.padd {
+  padding: 20px 18px;
+}
+.bi-wifi {
+  background-color: #fc566e;
+  color: #fff;
+  border-radius: 50%;
+  padding: 8px 14px 8px 14px;
+  font-size: 35px;
+}
+.bi-cloud {
+  background-color: #fc566e;
+  color: #fff;
+  border-radius: 50%;
+  padding: 8px 14px 8px 14px;
+  font-size: 35px;
+}
+.bi-music-note-beamed {
+  background-color: #fc566e;
+  color: #fff;
+  border-radius: 50%;
+  padding: 8px 14px 8px 14px;
+  font-size: 35px;
+}
+.bi-phone-flip {
+  background-color: #fc566e;
+  color: #fff;
+  border-radius: 50%;
+  padding: 8px 14px 8px 14px;
+  font-size: 35px;
+}
+.bi-headphones {
+  color: #fc566e;
+  padding-right: 20px !important;
+}
+.bg-img {
+  width: 100%;
+
+  background-image: url(./images/first-back.png);
+}
+.top-text {
+  margin-top: 90px;
+  color: #fff;
+}
+.hover-me a:hover {
+  color: #fa4e68 !important;
+}
+.icon-size {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 30px;
+}
+.icon-size-headphone {
+  margin-top: 5px;
+  margin-bottom: 12px;
+  font-size: 40px;
+}
+.back-color {
+  background-color: #fafafc;
+}
+.con-bg-opacity {
+  opacity: 0.2;
+}
+.carousel-indicators > button {
+  border-radius: 50%;
+  width: 10px !important;
+  height: 10px !important;
+}
+.round-img {
+  height: 90px;
+  width: 90px;
+}
+.back-img-2 {
+  background: linear-gradient(rgba(48, 48, 48, 0.7), rgba(51, 51, 51, 0.8)),
+    url(./images/download-bg.jpg);
+  width: 100%;
+  height: 70vh;
+  background-attachment: fixed;
+  background-position: unset;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+@media only screen and (max-width: 500px) {
+  .back-img-2 {
+    background: linear-gradient(rgba(48, 48, 48, 0.7), rgba(51, 51, 51, 0.8)),
+      url(./images/download-bg.jpg);
+    width: 100%;
+    height: 83vh;
+    background-size: 100% 220px;
+    background-attachment: fixed;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}
+.white-text {
+  color: #fff !important;
+}
+.bg-color {
+  background-color: #fc566e;
+}
+.text-magic {
+  color: #fc566e;
+}
+.btn-magic {
+  background-color: #fc566e;
+  color: #fff;
+}
+.btn-mgic:hover {
+  background-color: #fc566e;
+  color: #fff;
+}
+.btn-magic:focus {
+  background-color: #fc566e;
+  color: #fff;
+}
+p {
+  color: rgb(128, 127, 127);
+  font-size: 15px;
+}
+
+.our-feature {
+  font-weight: 900 !important;
+  font-size: 30px;
+}
+.our {
+  font-size: 28px !important;
+  font-family: sans-serif;
+}
+.img-width {
+  width: 80%;
+}
+@media only screen and (max-width: 500px) {
+  .text-mob {
+    font-size: 8vw !important;
+  }
+}
+.text-mob {
+  font-size: 3vw;
+}
+.btn-pad-2 {
+  padding: 10px 3px !important;
+  border-width: 3px;
+  margin-top: 7px;
+}
+.btn-font {
+  font-size: 13px;
+}
+.btn-size {
+  padding: 14px 28px !important;
+}
+.price-tag {
+  font-size: 55px !important;
+}
+.font-grey {
+  color: gray;
+}
+@media only screen and (max-width: 500px) {
+  .icons-mid {
+    text-align: center !important;
+  }
+}
+@media only screen and (max-width: 500px) {
+  .just-around {
+    margin-left: 25px;
+  }
+}
+.icon-mob {
+  font-size: 13px;
+}
+.img-margin {
+  border-radius: 50%;
+  width: 125px;
+  height: 100px;
+}
+.card-head {
+  padding: 30px 10px;
+  background-color: #f8f9fa;
+}
+.card-head-pink {
+  padding: 28px 10px;
+  background-color: #fc566e;
+}
+.line-height {
+  line-height: 175%;
+}
+.text-weight {
+  font-size: 19px;
+  font-weight: 501;
+}
+.shadow-card {
+  box-shadow: 1px 1px 5px 5px rgba(212, 211, 211, 0.2),
+    1px 1px 5px 5px rgba(218, 216, 216, 0.19);
+  text-align: center;
+}
+.font-type {
+  font-size: 14px !important;
+}
+.decoration-none:focus {
+  box-shadow: none !important;
+}
+@media only screen and (max-width: 500px) {
+  .centering-font {
+    display: flex;
+    justify-content: center;
+  }
+}
+/* animated popup */
+.pop-up {
+  transition: all 0.3s ease-in-out;
+}
+.pop-up:hover {
+  color: #fc566e;
+}
+.pop-up-2 {
+  transition: all 0.2s ease-in-out;
+}
+.pop-up-2:hover {
+  transform: scale(1.1);
+}
+@media only screen and (max-width: 500px) {
+  .footer-mob {
+    display: flex;
+    flex-direction: column;
+  }
+}
+@media only screen and (max-width: 500px) {
+  .justify-list-center {
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+  }
+}
+.hover-google:hover {
+  background-color: #4e8af0;
+  color: #f2b400 !important;
+  margin: 5px !important;
+}
+.hover-twitter:hover {
+  background-color: #41b7e9;
+  color: white !important;
+  margin: 5px !important;
+}
+.hover-facebook:hover {
+  background-color: #385498;
+  color: white !important;
+  margin: 5px !important;
+}
+.hover-insta:hover {
+  background-color: #764da6;
+  color: #f6a03d !important;
+  margin: 5px !important;
+}
+@media only screen and (max-width: 500px) {
+  .margin-left {
+    margin-left: 30px;
+  }
+  .mob-space-between {
+    margin-bottom: 10px !important;
+  }
+}
