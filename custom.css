@@ -278,7 +278,7 @@ p {
   transition: all 0.2s ease-in-out;
 }
 .pop-up-2:hover {
-  transform: scale(1.1);
+  transform: scale(1.05);
 }
 @media only screen and (max-width: 500px) {
   .footer-mob {
