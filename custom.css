@@ -50,29 +50,45 @@ span {
   background-color: #fc566e;
   color: #fff;
   border-radius: 50%;
-  padding: 8px 14px 8px 14px;
-  font-size: 35px;
+  font-size: 33px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 60px;
+  height: 60px;
 }
 .bi-cloud {
   background-color: #fc566e;
   color: #fff;
   border-radius: 50%;
-  padding: 8px 14px 8px 14px;
-  font-size: 35px;
+  font-size: 33px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 60px;
+  height: 60px;
 }
 .bi-music-note-beamed {
   background-color: #fc566e;
   color: #fff;
   border-radius: 50%;
-  padding: 8px 14px 8px 14px;
-  font-size: 35px;
+  font-size: 33px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 60px;
+  height: 60px;
 }
 .bi-phone-flip {
   background-color: #fc566e;
   color: #fff;
   border-radius: 50%;
-  padding: 8px 14px 8px 14px;
-  font-size: 35px;
+  font-size: 33px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 60px;
+  height: 60px;
 }
 .bi-headphones {
   color: #fc566e;
@@ -173,7 +189,7 @@ p {
   font-size: 28px !important;
   font-family: sans-serif;
 }
-.img-width {
+.img-height {
   width: 80%;
 }
 @media only screen and (max-width: 500px) {
@@ -298,7 +314,7 @@ p {
   margin: 5px !important;
 }
 @media only screen and (max-width: 500px) {
-  .margin-left {
+  .margin-lft {
     margin-left: 30px;
   }
   .mob-space-between {
